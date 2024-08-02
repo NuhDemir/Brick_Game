@@ -7,19 +7,19 @@ Brick Break, Java kullanarak geliştirilmiş klasik bir brick break oyunudur. Oy
 
 ### Ana Menü
 Ana menü ekranının görünümü:
-![Ana Menü](path/to/main-menu-image.png)
+![Ana Menü](https://raw.githubusercontent.com/NuhDemir/Brick_Game/main/img/main%20menu.png)
 
 ### Seçenekler Menüsü
 Seçenekler menüsü ekranının görünümü:
-![Seçenekler Menüsü](path/to/options-menu-image.png)
+![Seçenekler Menüsü](https://raw.githubusercontent.com/NuhDemir/Brick_Game/main/img/options.png)
 
 ### Seviye Seçimi Menüsü
 Seviye seçimi ekranının görünümü:
-![Seviye Seçimi Menüsü](path/to/level-select-menu-image.png)
+![Seviye Seçimi Menüsü](https://raw.githubusercontent.com/NuhDemir/Brick_Game/main/img/level%20select.png)
 
 ### Oyun Ekranı
 Oyun ekranının görünümü:
-![Oyun Ekranı](path/to/game-screen-image.png)
+![Oyun Ekranı](https://raw.githubusercontent.com/NuhDemir/Brick_Game/main/img/game%20panel.png)
 
 ## Nasıl Oynanır
 1. **Ana Menü**: Oyuna başlamak için bu ekranda seçenekleri görebilirsiniz.
