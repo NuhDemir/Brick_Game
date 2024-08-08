@@ -3,23 +3,6 @@
 ## Genel Bakış
 Brick Break, Java kullanarak geliştirilmiş klasik bir brick break oyunudur. Oyunun ana ekranları ve menüleri için çeşitli fotoğraflar eklenmiştir.
 
-## Ekranlar
-
-### Ana Menü
-Ana menü ekranının görünümü:
-![Ana Menü](path/to/main-menu-image.png)
-
-### Seçenekler Menüsü
-Seçenekler menüsü ekranının görünümü:
-![Seçenekler Menüsü](path/to/options-menu-image.png)
-
-### Seviye Seçimi Menüsü
-Seviye seçimi ekranının görünümü:
-![Seviye Seçimi Menüsü](path/to/level-select-menu-image.png)
-
-### Oyun Ekranı
-Oyun ekranının görünümü:
-![Oyun Ekranı](path/to/game-screen-image.png)
 
 ## Nasıl Oynanır
 1. **Ana Menü**: Oyuna başlamak için bu ekranda seçenekleri görebilirsiniz.
@@ -47,15 +30,25 @@ Oyun ekranının görünümü:
 - **Level Yükseltme**: Her seviyede top küçülür ve raket genişler. Final seviyesinde top, raketi vurmadan oyunu bitirir.
 - **Seviye İsimleri**: Seviye isimleri, Dante'nin 'İlahi Komedya'sından alınan başlıklardan oluşur.
 
-## Ekran Görüntüleri
+- ## Ekran Görüntüleri
+
 ### Ana Menü
-![Ana Menü](path/to/main-menu-image.png)
+Ana menü ekranının görünümü:
+
+![Ana Menü](https://raw.githubusercontent.com/NuhDemir/Brick_Game/main/img/main%20menu.png)
 
 ### Seçenekler Menüsü
-![Seçenekler Menüsü](path/to/options-menu-image.png)
+Seçenekler menüsü ekranının görünümü:
+
+![Seçenekler Menüsü](https://raw.githubusercontent.com/NuhDemir/Brick_Game/main/img/options.png)
 
 ### Seviye Seçimi Menüsü
-![Seviye Seçimi Menüsü](path/to/level-select-menu-image.png)
+Seviye seçimi ekranının görünümü:
+
+![Seviye Seçimi Menüsü](https://raw.githubusercontent.com/NuhDemir/Brick_Game/main/img/level%20select.png)
 
 ### Oyun Ekranı
-![Oyun Ekranı](path/to/game-screen-image.png)
+Oyun ekranının görünümü:
+
+![Oyun Ekranı](https://raw.githubusercontent.com/NuhDemir/Brick_Game/main/img/game%20panel.png)
+
